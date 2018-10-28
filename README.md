@@ -7,7 +7,7 @@ As the name suggests, JBoss Animated Logo aims to develop creative animated logo
 You are suggested to go through the following link to get an idea about what we are trying to develop. 
 [JBoss Animated Logo Sample](https://drive.google.com/file/d/12iTkHnACR-u_1dMZbRuBp8uM77COn4HN/view?usp=sharing)
 
-You are expected to develop an Animated Logo either by using web development tools like CSS and animation libraries such as [anime js](https://github.com/juliangarnier/anime), [mo js](https://github.com/legomushroom/mojs) or you can use mobile development tools like the mobile animation tools. Originality and creativity will be appreciated.
+You are expected to develop an Animated Logo either by using web development tools like CSS and animation libraries such as [anime js](https://github.com/juliangarnier/anime), [mo js](https://github.com/legomushroom/mojs) or you can use mobile development tools like mobile animation tools. Originality and creativity will be appreciated.
 
 After developing your logo, you are requested to create a folder containing all the necessary files along with the README.md file containing the GIF or the short video link. The folder name should follow a pattern as:
 
